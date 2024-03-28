@@ -31,6 +31,6 @@
 ## 安裝
 
 [東風破](https://github.com/rime/plum) 
-安裝口令： `bash rime-install Selaube/rime-jp_sela`
-或執行 `【小狼毫】輸入法設定` 並在`Enter package name, URL, user/repo or downloaded ZIP to install:` 輸入 `Selaube/rime-jp_sela` 並按下回車鍵(return)
+- 安裝口令： `bash rime-install Selaube/rime-jp_sela`
+- 或執行 `【小狼毫】輸入法設定` 並在`Enter package name, URL, user/repo or downloaded ZIP to install:` 輸入 `Selaube/rime-jp_sela` 並按下回車鍵(return)
 
